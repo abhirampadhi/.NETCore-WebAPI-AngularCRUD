@@ -1,6 +1,22 @@
-# Angular13InspectionApi
+# Angular18InspectionApi
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+This project is a sample application using Angular 18 and .NET Core 8, designed to help learners get acquainted with these technologies. This documentation provides basic instructions to get started with the Angular frontend and the .NET Core backend.
+
+## Angular 18 Project Setup
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16 or later)
+- [Angular CLI](https://github.com/angular/angular-cli) (latest version)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+### Installation
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone <repository-url>
+   cd Angular18InspectionApi
 
 ## Development server
 
@@ -25,3 +41,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+
