@@ -1,5 +1,5 @@
-# Asp.Net Core 8 Web API CRUD with Angular 13
-With this project i've implemented Asp.Net Core 8 Web API with Angular 13 Application Complete.
+# Asp.Net Core 8 Web API CRUD with Angular 18
+With this project i've implemented Asp.Net Core 8 Web API with Angular 18 Application Complete.
 
 # Dependences Web API
 - EntityFramework
