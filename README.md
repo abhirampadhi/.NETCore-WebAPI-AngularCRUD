@@ -10,6 +10,8 @@ With this project i've implemented Asp.Net Core 8 Web API with Angular 18 Applic
 - Microsoft.EntityFrameworkCore.Tools
 - Swashbuckle.AspNetCore
 
+Beginer can refer this code to learn restful API and Angular. The configuration to run the project does not take much time.
+
 
 
 
